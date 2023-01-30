@@ -9,7 +9,7 @@ This repo contains an archived notebook that won the #1 place of Team Challenge 
 from: https://hxbuddy.codeml.ca/
 
 <p align="center">
-<img src='asset\description.png' width='400'>
+<img src='asset\description.png' width='800'>
 <p>
 
 ## The Winning Solution
@@ -32,5 +32,5 @@ Team - The careless sparks
 Accuracy: 99.64%, Fq_score: 97.49%, Robustness: 95.5%
 
 <p align="center">
-<img src='asset\leaderboard.png' width='400'>
+<img src='asset\leaderboard.png' width='800'>
 <p>
